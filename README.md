@@ -1,3 +1,1 @@
-# Kaggle_Study
-Kaggle 머신러닝 모델 공부 및 정리
-
+### AI, Data 관련 모델, 프로그램 정리
