@@ -1,13 +1,14 @@
 ## AI, Data, Program 
 
-### Data 경진대회   
+### Data Competition    
 
 2020 해양수산 빅데이터 경진대회 open source   
 
 2022 날씨 빅데이터 경진대회 open source   
 
 2022 한국어 AI 경진대회 open source    
--> https://github.com/smartopens/Korean_AI_Speech_FS    
+->    
+https://github.com/smartopens/Korean_AI_Speech_FS    
 
 ### Data Science    
 
